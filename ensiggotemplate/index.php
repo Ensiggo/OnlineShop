@@ -10,7 +10,7 @@ $app = JFactory::getApplication();
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php echo $this->language; ?>" lang="<?php echo $this->language; ?>" dir="<?php echo $this->direction; ?>" >
 <head>
  		<title>ENSIGGO Finance</title>
- 		<link rel="shortcut icon" href=favicon.ico" type="image/ico" />
+ 		<link rel="shortcut icon" href=favicon.ico" type="image/x-icon" />
 		<jdoc:include type="head" />
 		<link rel="stylesheet" href="<?php echo $this->baseurl ?>/templates/system/css/system.css" type="text/css" />
 		<link rel="stylesheet" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/template.css" type="text/css" />
