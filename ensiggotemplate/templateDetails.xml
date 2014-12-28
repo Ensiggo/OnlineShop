@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>EnsiggoTemplate</name>
+	<creationDate>24 December 2014</creationDate>
+	<author>Michael Mayer</author>
+	<authorEmail>michael.mayer@ensiggo.org</authorEmail>
+	<authorUrl></authorUrl>
+	<copyright>Copyright (C) 2014 Michael Mayer, Inc. All rights reserved.</copyright>
+	<license></license>
+	<version>3.1</version>
+	<description>Template for Ensiggo Finance</description>
+	
+	
+	<files>
+		<folder>css</folder>
+		<folder>images</folder>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+	
+	<positions>
+      	<position>topnav</position>
+		<position>left</position>
+		<position>right</position>
+		<position>footer</position>
+	</positions>
+</extension>
